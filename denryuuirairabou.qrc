@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/DenryuuIraIraBou"/>
+    <qresource prefix="/image">
+        <file>png/bgbmp0_1.png</file>
+        <file>png/bgbmp1_1.png</file>
+        <file>png/bgbmp2_1.png</file>
+        <file>png/bgbmp3_1.png</file>
+        <file>png/bgbmp4_1.png</file>
+        <file>png/bgbmp5_1.png</file>
+        <file>png/bgbmp6_1.png</file>
+        <file>png/bgbmp7_1.png</file>
+        <file>png/lose_1.png</file>
+        <file>png/mbgbmp0_1.png</file>
+        <file>png/mbgbmp1_1.png</file>
+        <file>png/mbgbmp2_1.png</file>
+        <file>png/mbgbmp3_1.png</file>
+        <file>png/mbgbmp4_1.png</file>
+        <file>png/mbgbmp5_1.png</file>
+        <file>png/mbgbmp6_1.png</file>
+        <file>png/mbgbmp7_1.png</file>
+        <file>png/win_1.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>wav/s0.wav</file>
+        <file>wav/s1.wav</file>
+        <file>wav/s2.wav</file>
+    </qresource>
+</RCC>
